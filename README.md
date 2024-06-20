@@ -12,7 +12,7 @@ The fate and state of a cell is regulated through complex circuits of transcript
 ## Installation
 
 ```r
-devtools::install_github('quadbio/Pando')
+devtools::install_github('ericli0419/Pando')
 ```
 
 ## Quick start
